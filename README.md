@@ -8,7 +8,7 @@
 
 
 
-## Variáveis ​​de ambiente a ser adicionadas ao arquivo .env: 
+## Variáveis ​​de ambiente a serem adicionadas ao arquivo .env: 
 
 `DATABASE_URL="file:./dev.db"`
 
