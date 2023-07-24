@@ -1,0 +1,31 @@
+:root {
+    --primary: #348977 ;
+    --secondary: #001489 ;
+    --secondary-50: #283dae;
+    --gray-50: #DDDFEB;
+    --gray-100: #97909050;
+    --gray-200: #535653;
+    --gray-300: #7C8388;
+    --white: #fff;
+    --black: #000000;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 1340px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+}
+
+body{
+    background-color: var(--gray-100);
+}
