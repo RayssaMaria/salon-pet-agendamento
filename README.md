@@ -1,7 +1,7 @@
 Tecnologias utilizadas:
 
-Client: React, ContextAPI, ModuleCSS, Day Picker.
-Server: Node, Express, JWT, Prisma, SQLite.
+Client: React, ContextAPI, ModuleCSS, Day Picker  
+Server: Node, Express, JWT, Prisma, SQLite
 
 
 É necessário adicionar as seguintes variáveis ​​de ambiente ao seu arquivo .env, para rodar o projeto:
