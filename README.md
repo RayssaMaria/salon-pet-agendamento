@@ -8,7 +8,7 @@
 
 
 
-## É necessário adicionar as seguintes variáveis ​​de ambiente ao seu arquivo .env, para executar o projeto: 
+## Variáveis ​​de ambiente a ser adicionadas ao arquivo .env: 
 
 `DATABASE_URL="file:./dev.db"`
 
